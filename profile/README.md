@@ -1,5 +1,6 @@
-## Hi there 👋
+# Equiscraft
 
+Equiscraft is a minecraft equestrian server that focuses on giving the most realisti
 <!--
 
 **Here are some ideas to get you started:**
