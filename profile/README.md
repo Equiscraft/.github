@@ -1,6 +1,7 @@
 # Equiscraft
 
-Equiscraft is a minecraft equestrian server that focuses on giving the most realisti
+Equiscraft is the most realistic equestrian Minecraft server with over 150 custom breeds each with a custom skillset and an extremely in depth custom plugin with regular updates for the most realistic minecraft equestrian experience.
+
 <!--
 
 **Here are some ideas to get you started:**
